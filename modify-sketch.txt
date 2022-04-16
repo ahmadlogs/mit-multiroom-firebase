@@ -1,0 +1,28 @@
+------------------------------------------------
+ESP32 Pins
+------------------------------------------------
+
+#define Relay1  13
+#define Relay2  12
+#define Relay3  14
+#define Relay4  27
+
+#define Switch1 23
+#define Switch2 22
+#define Switch3 21
+#define Switch4 19
+
+
+------------------------------------------------
+ESP8266 Pins
+------------------------------------------------
+
+#define Relay1  16 //D0
+#define Relay2   5 //D1
+#define Relay3   4 //D2
+#define Relay4   0 //D3
+
+#define Switch1 12 //D5
+#define Switch2 14 //D6
+#define Switch3  9 //SD2
+#define Switch4 10 //SD3
