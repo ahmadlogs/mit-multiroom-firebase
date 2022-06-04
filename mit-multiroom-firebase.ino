@@ -51,8 +51,8 @@ String room_no = "room1";
 #define Relay3   4 //D2
 #define Relay4   0 //D3
 
-#define Switch1 12 //D5
-#define Switch2 14 //D6
+#define Switch1 14 //D5
+#define Switch2 12 //D6
 #define Switch3  9 //SD2
 #define Switch4 10 //SD3
 
